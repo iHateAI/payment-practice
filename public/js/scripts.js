@@ -4,7 +4,7 @@ const payment = () => {
   const payload = {
     clientId: 'S2_a0e115953f0d4ecea8a0e9e4533ef114',
     method: 'card',
-    orderId: '306609f4-3d99-4b6f-9d61-0a429f01c66a',
+    orderId: '306609f4-3d99-4b6f-9d61-0a429f01c66b',
     amount: 100,
     goodsName: '테스트 상품',
     returnUrl: 'http://localhost:3000/payment/auth', //API를 호출할 Endpoint 입력
