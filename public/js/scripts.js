@@ -1,6 +1,6 @@
 const paymentButton = document.querySelector('.payment-btn');
 
-const payment = (event) => {
+const payment = () => {
   const payload = {
     clientId: 'S2_a0e115953f0d4ecea8a0e9e4533ef114',
     method: 'card',
