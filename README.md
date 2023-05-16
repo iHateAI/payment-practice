@@ -1,1 +1,1 @@
-# Payment Practice With Nest.JS
+# Payment Practice With NicePay
